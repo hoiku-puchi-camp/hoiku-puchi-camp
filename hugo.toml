@@ -1,0 +1,8 @@
+baseURL = "https://hoiku-puchi-camp.com"
+languageCode = "ja"
+title = "保育士ママのプチプラ美容＆アウトドアライフ"
+theme = "PaperMod"
+
+[params]
+  description = "保育士ママがプチプラコスメとアウトドアを本音でレビュー"
+  author = "hoiku-puchi-camp"
