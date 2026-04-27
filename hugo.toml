@@ -17,10 +17,6 @@ paginate = 10
   homeInfoParams.Title = "🌸 はるままのブログへようこそ！"
   homeInfoParams.Content = "現役保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
 
-[[params.socialIcons]]
-  name = "instagram"
-  url = "https://instagram.com"
-
 [taxonomies]
   category = "categories"
   tag = "tags"
