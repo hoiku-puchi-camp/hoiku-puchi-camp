@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "保育士ママのプチプラ美容＆アウトドアライフ"
 theme = "PaperMod"
 paginate = 10
+hasCJKLanguage = true
 
 [params]
   description = "保育士ママがプチプラコスメとアウトドアを本音でレビュー🌸"
@@ -14,8 +15,10 @@ paginate = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
-  homeInfoParams.Title = "🌸 はるままのブログへようこそ！"
-  homeInfoParams.Content = "現役保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
+
+[params.homeInfoParams]
+  Title = "🌸 はるままのブログへようこそ！"
+  Content = "現役保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
 
 [taxonomies]
   category = "categories"
