@@ -43,3 +43,8 @@ hasCJKLanguage = true
   name = "👶 育児"
   url = "/categories/育児/"
   weight = 4
+
+[[menu.main]]
+  name = "👩‍🏫 プロフィール"
+  url = "/about/"
+  weight = 5
