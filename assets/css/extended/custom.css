@@ -1,3 +1,15 @@
+/* ===== 広告表記 ===== */
+.ad-disclosure {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 8px 14px;
+  font-size: 0.82em;
+  color: #666;
+  margin: 0 0 24px;
+  text-align: center;
+}
+
 /* ===== カラーボックス ===== */
 .custom-box {
   border-radius: 8px;
