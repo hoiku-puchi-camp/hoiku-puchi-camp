@@ -96,23 +96,40 @@
 /* ===== アフィリエイトボタン ===== */
 .affiliate-btn-wrap {
   text-align: center;
-  margin: 28px 0 8px;
+  margin: 32px 0 8px;
+}
+.affiliate-btn-label {
+  display: inline-block;
+  background-color: #fff3e0;
+  color: #e65100;
+  font-size: 0.85em;
+  font-weight: bold;
+  padding: 4px 14px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #ffb74d;
 }
 .affiliate-btn {
   display: inline-block;
-  background-color: #ff6b35;
+  background: linear-gradient(135deg, #ff6b35, #f7931e);
   color: white !important;
-  padding: 14px 32px;
-  border-radius: 30px;
+  padding: 18px 40px;
+  border-radius: 50px;
   text-decoration: none !important;
   font-weight: bold;
-  font-size: 1.05em;
-  transition: opacity 0.2s;
+  font-size: 1.15em;
+  box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);
+  transition: all 0.2s;
+  letter-spacing: 0.03em;
 }
-.affiliate-btn:hover { opacity: 0.82; }
+.affiliate-btn:hover {
+  opacity: 0.88;
+  box-shadow: 0 6px 20px rgba(255, 107, 53, 0.5);
+  transform: translateY(-1px);
+}
 .affiliate-note {
   text-align: center;
-  font-size: 0.8em;
-  color: #999;
-  margin-top: 6px;
+  font-size: 0.78em;
+  color: #aaa;
+  margin-top: 8px;
 }
