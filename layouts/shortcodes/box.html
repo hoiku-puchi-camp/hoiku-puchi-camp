@@ -1,0 +1,6 @@
+{{ $type := .Get "type" | default "note" }}
+{{ $title := .Get "title" | default "ポイント" }}
+<div class="custom-box box-{{ $type }}">
+  <div class="box-title">{{ $title }}</div>
+  <div class="box-content">{{ .Inner | markdownify }}</div>
+</div>

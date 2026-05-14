@@ -1,0 +1,9 @@
+{{ $name := .Get "name" | default "ほいくまま" }}
+{{ $icon := .Get "icon" | default "🌸" }}
+<div class="speech-wrap">
+  <div class="speech-icon">{{ $icon }}</div>
+  <div class="speech-bubble">
+    <div class="speech-name">{{ $name }}</div>
+    <div>{{ .Inner | markdownify }}</div>
+  </div>
+</div>
