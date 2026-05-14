@@ -84,6 +84,13 @@ DELTA 3があれば**スマホ充電の心配がゼロ**なので、気持ちの
 
 ---
 
+## 購入はこちら
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3LMV+88HW1E+4VA0+BW8O2&a8ejpredirect=https%3A%2F%2Fjp.ecoflow.com%2Fproducts%2Fdelta-3-classic%3Fvariant%3D52762174554479" rel="nofollow">EcoFlow DELTA 3 ポータブル電源</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3LMV+88HW1E+4VA0+BW8O2" alt="">
+
+---
+
 ## まとめ
 
 ポータブル電源は「高いし本当に必要？」と最初は迷うかもしれません。
