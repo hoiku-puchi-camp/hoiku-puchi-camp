@@ -5,6 +5,11 @@ theme = "PaperMod"
 pagination.pagerSize = 10
 hasCJKLanguage = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "保育士ママがプチプラコスメとアウトドアを本音でレビュー🌸"
   author = "キャンプするほいくまま"
