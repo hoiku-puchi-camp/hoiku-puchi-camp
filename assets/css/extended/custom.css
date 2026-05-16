@@ -95,6 +95,15 @@
   border: 6px solid transparent;
   border-right-color: #fff8f0;
 }
+.speech-img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
 .speech-name {
   font-size: 0.8em;
   font-weight: bold;
