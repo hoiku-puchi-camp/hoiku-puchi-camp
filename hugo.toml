@@ -24,7 +24,7 @@ googleAnalytics = "G-3BN6HLZN69"
 
 [params.homeInfoParams]
   Title = "🌸 キャンプするほいくままのブログへようこそ！"
-  Content = "現役保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
+  Content = "元保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
 
 [taxonomies]
   category = "categories"
