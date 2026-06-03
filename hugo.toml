@@ -1,6 +1,6 @@
 baseURL = "https://hoiku-puchi-camp.com"
 languageCode = "ja"
-title = "保育士ママのプチプラ美容＆アウトドアライフ"
+title = "Hana blog｜元保育士の3児ママ"
 theme = "PaperMod"
 pagination.pagerSize = 10
 hasCJKLanguage = true
@@ -12,8 +12,8 @@ googleAnalytics = "G-3BN6HLZN69"
       unsafe = true
 
 [params]
-  description = "保育士ママがプチプラコスメとアウトドアを本音でレビュー🌸"
-  author = "キャンプするほいくまま"
+  description = "元保育士の3児ママ・Hanaが育児・プチプラ美容・キャンプ・家計管理を本音でレビュー🌸"
+  author = "Hana"
   defaultTheme = "light"
   ShowReadingTime = true
   ShowShareButtons = false
@@ -23,8 +23,8 @@ googleAnalytics = "G-3BN6HLZN69"
   ShowToc = true
 
 [params.homeInfoParams]
-  Title = "🌸 キャンプするほいくままのブログへようこそ！"
-  Content = "元保育士ママが、プチプラコスメ・キャンプ・子育てを本音でレビュー💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
+  Title = "🌸 Hana｜元保育士の3児ママブログへようこそ！"
+  Content = "元保育士の3児ママが、育児・プチプラ美容・キャンプ・家計管理をリアルに発信💄🏕️ お金をかけずに毎日をちょっと豊かに✨"
 
 [taxonomies]
   category = "categories"
