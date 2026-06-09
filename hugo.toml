@@ -51,6 +51,11 @@ googleAnalytics = "G-3BN6HLZN69"
   weight = 4
 
 [[menu.main]]
+  name = "✈️ 旅行"
+  url = "/categories/旅行/"
+  weight = 5
+
+[[menu.main]]
   name = "👩‍🏫 プロフィール"
   url = "/about/"
-  weight = 5
+  weight = 6
